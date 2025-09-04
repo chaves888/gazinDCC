@@ -24,6 +24,6 @@ O protótipo foi criado para:
 ---
 
 ## 👨‍💻 Autor  
-**Leonardo Chaves Batista**  
+**Leonardo Chaves Batista da Silva**  
 - 💼 Analista de Crédito da **Gazin**  
 - 📧 [leonardo.chavesbs@gmail.com](mailto:leonardo.chavesbs@gmail.com)  
